@@ -35,6 +35,4 @@ Hi there! I’m **Drea**, a healthcare recruiter transitioning into software eng
 ## Contact  
 - 📞 (954) 634-2907  
 - 📧 data.andrea@outlook.com  
-- 👤 Andrea Strausberg  
 - 💼 [LinkedIn](https://linkedin.com/in/andreaconnects)  
-- 💻 [GitHub](https://github.com/DataWithDrea)
