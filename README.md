@@ -1,6 +1,6 @@
 # Data With Drea  
 
-Hi there! I’m **Drea**, a healthcare recruiter transitioning into software engineering. I’m currently pursuing my **Bachelor of Science in Computer Science**, set to graduate in **June 2026**. My focus is **Artificial Intelligence** and **Automation** — I’m passionate about building tools that make life and work easier. This repository is my portfolio hub where you can explore what I’m learning and creating as I break into the tech industry.  
+Hi there! I’m **Drea**, a healthcare recruiter transitioning into software engineering. I’m currently pursuing my Bachelor of Science in Computer Science, set to graduate in June 2026. My focus is **Artificial Intelligence and Automation** — I’m passionate about building tools that make life and work easier. This repository is my portfolio hub where you can explore what I’m learning and creating as I break into the tech industry.  
 
 ## About Me  
 - 🌍 Based in Cooper City, Florida (Fort Lauderdale area)  
@@ -14,12 +14,13 @@ Hi there! I’m **Drea**, a healthcare recruiter transitioning into software eng
 - **Data Structures & Algorithms** – foundational skills & code challenges  
 
 ## Portfolio Projects  
+
 ### AI & Automation Projects  
 - **MatchMaker AI** – Intelligent resume-matching tool using Python & NLP to rank candidates for open positions. Learn how AI can streamline hiring.  
-- **Upcoming Ideas**:  
+- **Upcoming Ideas:**  
   - Task automation scripts to streamline repetitive recruiter tasks (e.g., scheduling)  
   - Chatbot prototypes to assist with candidate inquiries and FAQs  
-  - AI driven analytics for evaluating interview performance and job description quality  
+  - AI-driven analytics for evaluating interview performance and job description quality  
 
 ### Data Structures & Algorithms Practice  
 - **LeetCode & HackerRank Solutions** – Solved problems with explanations and complexity analysis.  
@@ -29,11 +30,11 @@ Hi there! I’m **Drea**, a healthcare recruiter transitioning into software eng
 ### Full‑Stack Development Projects  
 - **Portfolio Website** – A personal site built with React.js and Node/Express (or Flask) to showcase my journey, resume, blog posts, and contact info.  
 - **Task Manager App** – A CRUD-based to‑do application with REST API backend and database integration for storing tasks, deadlines, and status.  
-- **E commerce Demo** – A simple online shop to experiment with shopping cart features, product pages, checkout flows, and payment integrations.  
+- **E‑commerce Demo** – A simple online shop to experiment with shopping cart features, product pages, checkout flows, and payment integrations.  
 
 ## Contact  
 - 📞 (954) 634-2907  
 - 📧 data.andrea@outlook.com  
-- 👩‍🎓 Andrea Strausberg  
-- 💼 LinkedIn: [linkedin.com/in/andreaconnects](https://linkedin.com/in/andreaconnects)  
-- 🖍 GitHub: [github.com/DataWithDrea](https://github.com/DataWithDrea)
+- 👤 Andrea Strausberg  
+- 💼 [LinkedIn](https://linkedin.com/in/andreaconnects)  
+- 💻 [GitHub](https://github.com/DataWithDrea)
