@@ -33,3 +33,10 @@ This repository is my portfolio hub where you can explore what I’m learning an
 - **Portfolio Website** – A personal site built with React.js and Node/Express (or Flask) to showcase my journey, resume, blog posts, and contact info.
 - **Task Manager App** – A CRUD-based to-do application with REST API backend and database integration for storing tasks, deadlines, and status.
 - **E‑commerce Demo** – A simple online shop to experiment with shopping cart features, product pages, checkout flows, and payment integrations.
+
+## Contact
+- 📞 (954) 225-6101
+- 📧 andrea.straus@outlook.com
+- 👩‍🎓 Andrea Strausberg
+- 💼 LinkedIn: [linkedin.com/in/andreaconnects](https://linkedin.com/in/andreaconnects)
+- 🖍 GitHub: [github.com/DataWithDrea](https://github.com/DataWithDrea)
